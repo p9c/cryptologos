@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>DigixDAO</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0.499999523%" y1="101.499999%" x2="101.499999%" y2="-0.499999523%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#616161" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FBE45F" offset="0%"></stop>
+            <stop stop-color="#EDC435" offset="49.6512277%"></stop>
+            <stop stop-color="#E2A539" offset="50.131537%"></stop>
+            <stop stop-color="#ECC335" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-4617.000000, -3279.000000)" id="DigixDAO">
+            <g transform="translate(4617.000000, 3279.000000)">
+                <rect id="Rectangle-9" fill="url(#linearGradient-1)" x="0" y="0" width="256" height="256"></rect>
+                <path d="M101.988042,80 L124.207373,80 L124.207373,175.391705 L25,175.391705 L25,118.026513 L101.988042,118.026513 L101.988042,80 Z M47.0804774,138.304876 L47.0804774,155.258841 L102.021154,155.258841 L102.021154,138.304876 L47.0804774,138.304876 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <polygon id="Path-20" fill="#FFFFFF" points="132.792627 80 132.792627 175.391705 232 175.391705 232 118.001192 171.887088 118.001192 171.887088 138.166716 209.803326 138.166716 209.803326 155.153958 154.968182 155.153958 154.968182 100.265403 232 100.265403 232 80"></polygon>
+                <polygon id="Path-22" fill="url(#linearGradient-2)" points="25 80 25 109.571429 93.6820276 109.571429 93.6820276 80"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

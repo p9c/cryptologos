@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="231px" height="256px" viewBox="0 0 231 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>GameCredits</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1570.000000, -3963.000000)" id="GameCredits" fill="#31475A">
+            <g transform="translate(1570.000000, 3963.000000)">
+                <rect id="Rectangle-10" x="88.0923788" y="85.7274827" width="141.893764" height="31.334873"></rect>
+                <path d="M134.876148,255.965521 C99.1659038,255.965521 67.7593434,244.533276 40.6555247,221.668443 C13.551706,198.80361 0,167.71818 0,128.41122 C0,-2.77256055 161.165861,-34.8483052 225.446034,38.6613269 L200.930949,62.2348632 C136.541093,7.13043077 37.7653215,41.6994208 37.7653215,128.796581 C37.7653215,215.893741 136.260937,245.91833 194.532984,201.418767 L194.532984,171.449895 L88.2221844,171.449895 L88.2221844,139.61811 L230.577367,139.61811 L230.577367,221.098515 C196.916949,248.02685 154.144266,255.965521 134.876148,255.965521 Z" id="G"></path>
+            </g>
+        </g>
+    </g>
+</svg>

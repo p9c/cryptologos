@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="198px" viewBox="0 0 256 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Decred</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.061617e-15%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#62D0C9" offset="0%"></stop>
+            <stop stop-color="#7DE2AC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-5829.000000, -1834.000000)" id="Decred">
+            <g transform="translate(5829.000000, 1834.000000)">
+                <path d="M175.8675,0 C175.8225,0.000333333333 154.710833,0.000666666667 112.5325,0.001 L155.698,37.428 L175.9085,37.428 C199.363,37.428 218.326,56.1415 218.326,79.845 C218.326,103.549 199.1135,122.5115 175.659,122.5115 L112.5325,122.5115 L198.6145,197.116 L255.5035,197.116 L205.601,153.9505 C236.041,141.7245 256.0025,112.282 255.7525,79.596 C255.7525,35.6665 220.213,0.131 176.371,0 L175.8675,0 Z" id="Fill-1" fill="url(#linearGradient-1)"></path>
+                <path d="M143.4719,74.855 L80.3454,74.855 C56.8909,74.855 37.6789,93.818 37.6789,117.5215 C37.6789,141.2255 56.6414,160.1885 80.3454,160.1885 L100.5559,160.1885 L143.4719,197.116 L80.3454,197.615 C36.1814,197.615 0.2519,161.935 0.0024,118.0205 C-0.2471,85.085 19.7134,55.6425 50.1544,43.4165 L0.2519,0.001 L57.3899,0.001 L143.4719,74.855 Z" id="Fill-3" fill="#4971FA"></path>
+            </g>
+        </g>
+    </g>
+</svg>

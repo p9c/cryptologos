@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="250px" viewBox="0 0 156 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>AdEx</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-5879.000000, -6151.000000)" id="AdEx">
+            <g transform="translate(5829.000000, 6148.000000)">
+                <polygon id="+" fill="#2D78B9" transform="translate(127.904156, 127.904156) rotate(45.000000) translate(-127.904156, -127.904156) " points="108.109005 148.130883 38.1480588 148.130883 38.1480588 108.580409 108.109005 108.580409 108.109005 38.1480588 147.699308 38.1480588 147.699308 108.580409 217.660254 108.580409 217.660254 148.130883 147.699308 148.130883 147.699308 217.660254 108.109005 217.660254"></polygon>
+                <polygon id="Rectangle-17" fill="#3C3C3B" transform="translate(126.882765, 208.053497) rotate(45.000000) translate(-126.882765, -208.053497) " points="124.36144 205.532172 124.366146 176.833984 158.102277 176.833984 158.102277 239.273009 95.6632527 239.273009 95.6632527 206.163417"></polygon>
+                <polygon id="Rectangle-17" fill="#3C3C3B" transform="translate(126.882765, 47.273009) rotate(225.000000) translate(-126.882765, -47.273009) " points="124.36144 44.751684 124.366146 16.0534966 158.102277 16.0534966 158.102277 78.492521 95.6632527 78.492521 95.6632527 45.3829292"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="205px" viewBox="0 0 256 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Ark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-2782.000000, -1831.000000)" id="Ark" fill="#F70000">
+            <g transform="translate(2782.000000, 1831.000000)">
+                <polygon id="Fill-1" points="128.00084 4.096e-05 2.048e-05 204.544041 128.00084 72.1190298 256.00002 204.544041"></polygon>
+                <path d="M185.2147,160.3328 L162.2771,137.088 L93.4912307,137.088 L70.3488307,160.3328 L185.2147,160.3328 Z M106.49685,124.23168 L128.00085,102.224589 L149.447711,124.23168 L106.49685,124.23168 Z" id="Fill-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
